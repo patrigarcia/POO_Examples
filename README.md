@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](assets/banner.png)
 
 # PROGRAMACIÓN ORIENTADA A OBJETOS (OOP) CON TYPESCRIPT 🚀
 
@@ -6,7 +6,7 @@ Este repositorio contiene ejemplos de código para ilustrar los conceptos fundam
 
 ## ¿Qué es la OOP? 🤔
 
-![Imagen descriptiva de OOP](2.png)
+![Imagen descriptiva de OOP](assets/2.png)
 
 La Programación Orientada a Objetos es un paradigma de programación basado en el concepto de "objetos", que pueden contener datos, en forma de campos (conocidos como atributos o propiedades), y código, en forma de procedimientos (conocidos como métodos). La OOP nos ayuda a organizar y estructurar software de manera que sea más flexible, escalable y fácil de mantener.
 
